@@ -15,4 +15,13 @@ Tecnologias de conhecimento -
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuelnabarrete&layout=donut-vertical&theme=transparent)](https://github.com/Emanuelnabarrete/github-readme-stats)
 
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/FtlUfrq3pVZXVNjoxf/video" width="480"></iframe><a href="https://giphy.com/channel/alex-anderson" rel="noopener noreferrer" style="clear:both;display:inline-block;height:36px;line-height:18px;margin:10px 0;padding:0 0 0 44px;position:relative" target="_blank"><img alt="" src="https://media2.giphy.com/avatars/alex-anderson/25jKfB4c7gXy/80h.gif" style="height:36px;left:0;position:absolute;top:0;width:36px"/><div style="font-size:16px;font-weight:bold">Alex Anderson</div><div style="font-size:14px;font-weight:normal">@alex-anderson</div></a><p style="margin-top:6px"><strong>Look at this graph</strong><br/>Every time I do, it makes me laugh</p></div>
+
+[![GIF Exemplo](https://media.giphy.com/media/FtlUfrq3pVZXVNjoxf/giphy.gif)](https://giphy.com/channel/alex-anderson)
+
+
+<div style="float: right; margin-left: 20px;">
+  <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" alt="GIF Exemplo"/>
+  <p><a href="https://giphy.com/gifs/Giflytics-MT5UUV1d4CXE2A37Dg"></a></p>
+</div>
+
+
