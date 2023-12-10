@@ -14,3 +14,5 @@ Tecnologias de conhecimento -
   <a href="https://www.linkedin.com/in/emanuel-nabarrete-de-souza-599907239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuelnabarrete&layout=donut-vertical&theme=transparent)](https://github.com/Emanuelnabarrete/github-readme-stats)
+
+<iframe src="https://gifer.com/embed/47W8" width=480 height=386.400 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">através de GIFER</a></p>
