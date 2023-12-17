@@ -17,7 +17,7 @@ Tecnologias de conhecimento -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuelnabarrete&layout=donut-vertical&theme=transparent)](https://github.com/Emanuelnabarrete/github-readme-stats)
 
 
-[![GIF Exemplo](https://media.giphy.com/media/FtlUfrq3pVZXVNjoxf/giphy.gif)](https://giphy.com/channel/alex-anderson)
+
 
 
 <div style="float: right; margin-left: 20px;">
