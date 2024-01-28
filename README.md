@@ -20,10 +20,3 @@ Tecnologias de conhecimento -
 
 
 
-
-<div style="float: right; margin-left: 20px;">
-  <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" alt="GIF Exemplo"/>
-  <p><a href="https://giphy.com/gifs/Giflytics-MT5UUV1d4CXE2A37Dg"></a></p>
-</div>
-
-
