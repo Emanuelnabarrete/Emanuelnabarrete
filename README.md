@@ -1,7 +1,7 @@
 ##### Olá pessoal, me chamo Emanuel Nabarrete 😁😁
 
 ##### Adoro conhecer novas tecnologias, estou no terceiro semestre de ADS no Centro Universitário Senac. 
-Meu interesse está voltado para a área de Data Science, e estou entusiasmado em aplicar meus conhecimentos e crescer profissionalmente nesse campo fascinante. Estou aberto a conexões, conselhos e oportunidades para expandir minha trajetória profissional. Vamos conectar e compartilhar ideias!
+Meu interesse está voltado para a área de Dados, e estou entusiasmado em aplicar meus conhecimentos e crescer profissionalmente nesse campo fascinante. Estou aberto a conexões, conselhos e oportunidades para expandir minha trajetória profissional. Vamos conectar e compartilhar ideias!
 
 
 
