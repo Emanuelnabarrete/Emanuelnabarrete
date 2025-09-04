@@ -1,6 +1,6 @@
 <h2 aling="left">About Me</h2>
 <br>
-<p>👩‍💻 - Data Student</p>
+<p>👦 - Data Student</p>
 <p>📲 - Degree in Systems Analysis and Development | Senac </p>
 <p>👨‍🎓 - Student of Computer Science</p>
 
