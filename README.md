@@ -6,11 +6,11 @@
 
 <h2 align="left">Main skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,sklearn)](https://skillicons.dev)
 
 <h2 align="left">Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,vscode,linux,git,github,sklearn,figma,postman,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,mysql,vscode,linux,git,github,sklearn,figma,postman,ubuntu)](https://skillicons.dev)
 
 <h2 align="left">Currently studying</h2>
 
