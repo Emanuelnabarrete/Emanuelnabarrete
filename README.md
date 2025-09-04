@@ -2,7 +2,7 @@
 <br>
 <p>👦 - Data Student</p>
 <p>📲 - Associate Degree in Systems Analysis and Development | Senac </p>
-<p>🎓 - Student of Computer Science</p>
+<p>🎓 - Student of Computer Science | Fiap</p>
 
 <h2 align="left">Main skills</h2>
 
