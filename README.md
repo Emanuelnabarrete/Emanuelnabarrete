@@ -10,11 +10,11 @@
 
 <h2 align="left">Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,vscode,mysql,sklearn,figma,postman,ubuntu,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,python,vscode,mysql,postman)](https://skillicons.dev)
 
 <h2 align="left">Currently studying</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,linux,ubuntu,sklearn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,linux,ubuntu)](https://skillicons.dev)
 
 
 <h2 align="left">Social</h2>
